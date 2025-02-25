@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on obtaining the ISTQB Certified Tester Foundation Level (CTFL) certification while enhancing my skills in various testing methodologies and automation tools like Playwright and WebDriverIO.<br>
 
 
 ## 🌐 Socials:
