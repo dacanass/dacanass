@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on obtaining the ISTQB Certified Tester Foundation Level (CTFL) certification while enhancing my skills in various testing methodologies and automation tools like Playwright and WebDriverIO.<br>
+## Hi there, I'm David Cañas 👋 
+### QA Automation Engineer & Test Analyst
 
+Results-driven **QA Automation Engineer** specializing in designing and implementing scalable multi-layer testing frameworks from scratch. Expert in web and API testing using JavaScript/TypeScript, and actively expanding into **Mobile Automation (Android & iOS) with Appium & Java**. Armed with an **ISTQB® Certified Tester** foundation, I combine structured testing methodologies with clean code practices to accelerate release cycles in Agile environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dacanass) 
